@@ -3,16 +3,8 @@
     "date": "2026-06-05",
     "type": "Expense",
     "category": "Food",
-    "amount": 215,
-    "status": "PENDING",
-    "desc": "Hotel bill until 4 jun"
-  },
-  {
-    "date": "2026-06-05",
-    "type": "Expense",
-    "category": "Utilities",
-    "amount": 630,
+    "amount": 289,
     "status": "PAID",
-    "desc": "Got 350 for jun bill but i paid for 2 month"
+    "desc": "Ch"
   }
 ]
