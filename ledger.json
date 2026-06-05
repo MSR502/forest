@@ -22,13 +22,5 @@
     "amount": 630,
     "status": "PAID",
     "desc": "Got 350 for jun bill but i paid for 2 month"
-  },
-  {
-    "date": "2026-06-05",
-    "type": "Expense",
-    "category": "Food",
-    "amount": 5,
-    "status": "PAID",
-    "desc": "Hb"
   }
 ]
