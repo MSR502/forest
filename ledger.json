@@ -1,14 +1,6 @@
 [
   {
     "date": "2026-06-05",
-    "type": "Income",
-    "category": "Allowance",
-    "amount": 366,
-    "status": "PAID",
-    "desc": "Advance balance"
-  },
-  {
-    "date": "2026-06-05",
     "type": "Expense",
     "category": "Food",
     "amount": 215,
